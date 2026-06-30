@@ -1,0 +1,265 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.home-page-img-sizing {
+    
+    height: 3vh;
+    max-width: 12vw;
+    padding: 0px;
+    border-radius: 10px;
+}
+.img-sizing {
+    height: 15VH;   
+    max-width: 100%;
+    padding: 0px;
+    border-radius: 10px;
+}
+#Nav-item-1 {
+    color: rgb(0, 0, 0);
+    font-family: roboto;
+}
+#Nav-item-2 {
+    color: rgb(0, 0, 0);
+    font-family: roboto;
+}
+#Nav-item-3 {
+    color: rgb(0, 0, 0);
+    font-family: roboto;
+}
+#Nav-item-4 {
+    color: rgb(0, 0, 0);
+    font-family: roboto;
+}
+#Nav-item-5 {
+    color: rgb(0, 0, 0);
+    font-family: roboto;
+}
+#Nav-item-6 {
+    color: rgb(0, 0, 0);
+    font-family: roboto;
+}
+.marquee-tag-styleing {
+    color: rgb(96, 186, 6);
+    background-color: rgba(0, 0, 0, 0.72);
+    border-radius: 5px;
+    border-color: brown;
+    border-width: 1px;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.get-delicious-food-secton {
+    background-image: url("https://res.cloudinary.com/dqezzrhpc/image/upload/v1782462714/copy_of_remove_background_project_-_26_june_2026_at_135856_txldy7.png");
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    border-radius: 5px;
+}
+.gdf-title {
+    color: rgb(190, 28, 198);
+    font-size: 21px;
+    font-weight: 700;
+    
+}
+.gdf-para {
+    color: rgb(16, 6, 209);
+    font-family: roboto;;
+    font-family: roboto;
+    font-size: 12px;
+    font-weight: 500;
+    
+}
+.view-menu {
+    background-color: rgb(237, 192, 57);
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 6px;
+    border-color: rgb(237, 167, 173);
+    color: rgb(35, 96, 16);
+    font-weight: 500;
+    border-width: 2px;
+}
+.order-now {
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 6px;
+    border-color: rgb(38, 134, 8);
+    color: rgb(203, 154, 7);
+    font-weight: 500;
+    border-width: 2px;
+}
+.marqu-styling {
+    background-color: rgb(58, 60, 60);
+    color: rgb(171, 207, 10);
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.wcu-section {
+    background-color: rgba(236, 223, 79, 0.909);
+    border-radius: 8px;
+}
+.wcu-section-heading {
+    font-family: roboto;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #183b56;
+}
+.wcu-section-discription {
+    font-family: roboto;
+    font-size: 16px;
+    color: #5a7184;
+}
+.wcu-card {
+    background-color: rgb(240, 248, 246);
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+.wcu-card-img-sizing {
+    height: 90px;
+    width: 87px;
+    border-radius: 42%;
+}
+.wcu-card-title {
+    font-family: roboto;
+    font-size: 16px;
+    font-weight: 500;
+    color: #904c04;
+    
+}
+.wcu-card-discription {
+    font-family: roboto;
+    font-size: 12px;
+    font-weight: 300;
+    color: #022d5b;
+}
+.marque-offers {
+    color: rgb(236, 197, 222);
+    font-weight: 600;
+    font-style: italic;
+}
+.offers {
+    color: rgb(196, 29, 135);
+    font-weight: 600;
+    font-style: italic;
+}
+.#aboutUs {
+    scroll-margin-top: 80px; /* మీ హెడర్ ఎత్తును బట్టి ఈ వాల్యూని (80px లేదా 100px) మార్చుకోండి */
+}
+
+
+.marqu-stylings {
+    background-color: rgb(140, 17, 181);
+    color: rgb(229, 226, 10);
+    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.ex-menu-bg {
+    background-color: #9e94e7;
+    background-size: cover;
+    height: auto;
+    border-radius: 10px;
+}
+.ex-menu-heading {
+    text-align: center;
+    color: white;
+    font-family: roboto;
+    font-size: 32px;
+    font-weight: 600;
+    
+}
+.ex-img-sizing-in {
+    border-radius: 8px;
+    
+}
+.ex-non-vg-starts {
+    font-family: roboto;
+    font-size: 18px;
+    color: #5c0b81;
+    font-weight: 500;
+    margin-top:24px ;
+
+}
+.ex-menu-item-link {
+    font-family: roboto;
+    font-size: 14px;
+    font-weight: 700;
+    font-style : normal;
+    color: rgb(51, 52, 1);
+}
+.menu-item-card {
+    background-color: white;
+    border-radius: 16px;
+    border-width: 1px;
+    border-color: rgb(14, 2, 0);
+    border-style: solid;
+}
+
+.follow-us-section {
+    background-color: rgb(57, 168, 5);
+    border-radius: 10px;
+    border-width: 1px;
+    height: 100%;
+    width: 100%;
+}
+.follow-heading {
+    font-family: times new roman;
+    font-size: 28px;
+    font-weight: 700;
+    text-align: center;
+
+    background: linear-gradient(to right, red, rgb(238, 240, 241), rgb(101, 45, 161));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;   
+}
+
+.follow-description{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(255, 251, 251);
+    padding: 8px;
+}
+.follow-img-sizings {
+    height: 120px;
+    width: 120px;
+}
+.quick-heading {
+   font-size: 28px;
+   font-family: 'Times New Roman', Times, serif; 
+    color: rgb(255, 251, 251); 
+}
+.quick-list {
+  list-style: none;      /* bullets తీసేస్తుంది */
+  padding: 0;            /* ul default padding 0 చేస్తుంది */
+  margin: 0;
+  color: aliceblue;
+}
+.contact-list-2{
+  list-style: none;       
+  padding: 0;            /* ul default padding 0 చేస్తుంది */
+  margin: 0;
+  color: aliceblue;
+}
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 90px; /* Mee navbar height ki thagattu dinni adjust cheskondi */
+}
+
+.exam-discription {
+    font-family: roboto;
+    font-size: 20px;
+    color: #0b4506;
+}
+.exam-heading {
+    font-family:'Times New Roman', Times, serif ;
+    font-size: 28px;
+    font-weight: 700;
+    color: #0e7942;
+}
